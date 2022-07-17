@@ -6,7 +6,7 @@ jobs:
       - name: git-sync
         uses: wei/git-sync@v3
         with:
-          source_repo: "Ancient-China-Books/zizhitongjian"
+          source_repo: "Ancient-China-Books/lunyuzhengyi"
           source_branch: "master"
-          destination_repo: "https://${{ secrets.GITLAB_USERNAME }}:${{ secrets.GITLAB_TOKEN }}@gitlab.com/ancient-china-books/zizhitongjian.git"
+          destination_repo: "https://${{ secrets.GITLAB_USERNAME }}:${{ secrets.GITLAB_TOKEN }}@gitlab.com/ancient-china-books/lunyuzhengyi.git"
           destination_branch: "master"
