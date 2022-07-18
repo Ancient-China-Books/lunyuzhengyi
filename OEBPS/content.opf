@@ -25,7 +25,7 @@
     <dc:subject>经典</dc:subject>
     <dc:subject>經學</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">d06ae613-6fed-495b-81ae-1856720d2cd3</dc:identifier>
+    <dc:identifier opf:scheme="calibre">c4cc90fe-5898-48d5-a049-0bb60a67a7c4</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">1577653</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101002232</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
@@ -39,6 +39,20 @@
     <meta content="1.9.10" name="Sigil version"/>
   </metadata>
   <manifest>
+    <item id="id13" href="Text/474.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="Text/475.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="Text/661.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="Text/662.html" media-type="application/xhtml+xml"/>
+    <item id="id20" href="Text/663.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="Text/664.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="Text/665.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="Text/666.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="Text/667.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="Text/668.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="Text/669.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="Text/670.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="Text/671.html" media-type="application/xhtml+xml"/>
+    <item id="id26" href="Text/672.html" media-type="application/xhtml+xml"/>
     <item id="id" href="Text/3767.html" media-type="application/xhtml+xml"/>
     <item id="id1" href="Text/3768.html" media-type="application/xhtml+xml"/>
     <item id="id2" href="Text/3769.html" media-type="application/xhtml+xml"/>
@@ -52,20 +66,6 @@
     <item id="id10" href="Text/3880.html" media-type="application/xhtml+xml"/>
     <item id="id11" href="Text/3881.html" media-type="application/xhtml+xml"/>
     <item id="id12" href="Text/3882.html" media-type="application/xhtml+xml"/>
-    <item id="id13" href="Text/474.html" media-type="application/xhtml+xml"/>
-    <item id="id14" href="Text/475.html" media-type="application/xhtml+xml"/>
-    <item id="id15" href="Text/661.html" media-type="application/xhtml+xml"/>
-    <item id="id16" href="Text/662.html" media-type="application/xhtml+xml"/>
-    <item id="id17" href="Text/665.html" media-type="application/xhtml+xml"/>
-    <item id="id18" href="Text/664.html" media-type="application/xhtml+xml"/>
-    <item id="id19" href="Text/666.html" media-type="application/xhtml+xml"/>
-    <item id="id20" href="Text/663.html" media-type="application/xhtml+xml"/>
-    <item id="id21" href="Text/667.html" media-type="application/xhtml+xml"/>
-    <item id="id22" href="Text/668.html" media-type="application/xhtml+xml"/>
-    <item id="id23" href="Text/669.html" media-type="application/xhtml+xml"/>
-    <item id="id24" href="Text/670.html" media-type="application/xhtml+xml"/>
-    <item id="id25" href="Text/671.html" media-type="application/xhtml+xml"/>
-    <item id="id26" href="Text/672.html" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
@@ -101,6 +101,20 @@
     <item id="noto" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id20"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id19"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
     <itemref idref="id"/>
     <itemref idref="id1"/>
     <itemref idref="id2"/>
@@ -114,19 +128,5 @@
     <itemref idref="id10"/>
     <itemref idref="id11"/>
     <itemref idref="id12"/>
-    <itemref idref="id13"/>
-    <itemref idref="id14"/>
-    <itemref idref="id15"/>
-    <itemref idref="id16"/>
-    <itemref idref="id17"/>
-    <itemref idref="id18"/>
-    <itemref idref="id19"/>
-    <itemref idref="id20"/>
-    <itemref idref="id21"/>
-    <itemref idref="id22"/>
-    <itemref idref="id23"/>
-    <itemref idref="id24"/>
-    <itemref idref="id25"/>
-    <itemref idref="id26"/>
   </spine>
 </package>
