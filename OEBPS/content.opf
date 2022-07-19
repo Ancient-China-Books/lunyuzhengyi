@@ -1,7 +1,7 @@
 <?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <dc:title>論語正義（全二冊）</dc:title>
+    <dc:title>論語正義</dc:title>
     <dc:creator opf:role="aut" opf:file-as="撰, 刘宝楠 &amp; 点校, 高流水 &amp; 注解, 高流水">刘宝楠 撰</dc:creator>
     <dc:creator opf:role="aut">高流水 点校</dc:creator>
     <dc:creator opf:role="aut">高流水 注解</dc:creator>
@@ -29,7 +29,7 @@
     <dc:identifier opf:scheme="NEW_DOUBAN">1577653</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101002232</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
-    <meta content="論語正義（全二冊）" name="calibre:title_sort"/>
+    <meta content="論語正義" name="calibre:title_sort"/>
     <meta name="cover" content="cover"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
     <meta content="{&quot;刘宝楠 撰&quot;: &quot;&quot;, &quot;高流水 点校&quot;: &quot;&quot;, &quot;高流水 注解&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
