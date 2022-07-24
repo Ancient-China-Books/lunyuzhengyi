@@ -1,177 +1,179 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
-  <head>
-    <meta name="dtb:uid" content="bba97d0d-0709-45a9-9636-335a0a414beb"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.44.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
-  </head>
-  <docTitle>
-    <text>論語正義</text>
-  </docTitle>
-  <navMap>
-    <navPoint id="num_1" playOrder="1">
-      <navLabel>
-        <text>凡例</text>
-      </navLabel>
-      <content src="Text/474.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_2" playOrder="2">
-      <navLabel>
-        <text>卷一·學而第一</text>
-      </navLabel>
-      <content src="Text/475.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_3" playOrder="3">
-      <navLabel>
-        <text>卷二·爲政第二</text>
-      </navLabel>
-      <content src="Text/661.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_4" playOrder="4">
-      <navLabel>
-        <text>卷三·八佾第三（上）</text>
-      </navLabel>
-      <content src="Text/662.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_5" playOrder="5">
-      <navLabel>
-        <text>卷四·八佾第三（下）</text>
-      </navLabel>
-      <content src="Text/663.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_6" playOrder="6">
-      <navLabel>
-        <text>卷五·里仁第四</text>
-      </navLabel>
-      <content src="Text/664.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_7" playOrder="7">
-      <navLabel>
-        <text>卷六·公冶長第五</text>
-      </navLabel>
-      <content src="Text/665.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_8" playOrder="8">
-      <navLabel>
-        <text>卷七·雍也第六</text>
-      </navLabel>
-      <content src="Text/666.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_9" playOrder="9">
-      <navLabel>
-        <text>卷八·述而第七</text>
-      </navLabel>
-      <content src="Text/667.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_10" playOrder="10">
-      <navLabel>
-        <text>卷九·泰伯第八</text>
-      </navLabel>
-      <content src="Text/668.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_11" playOrder="11">
-      <navLabel>
-        <text>卷十·子罕第九</text>
-      </navLabel>
-      <content src="Text/669.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_12" playOrder="12">
-      <navLabel>
-        <text>卷十一·鄉黨第十（上）</text>
-      </navLabel>
-      <content src="Text/670.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_13" playOrder="13">
-      <navLabel>
-        <text>卷十二·鄉黨第十（中）</text>
-      </navLabel>
-      <content src="Text/671.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_14" playOrder="14">
-      <navLabel>
-        <text>卷十三·鄉黨第十（下）</text>
-      </navLabel>
-      <content src="Text/672.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_15" playOrder="15">
-      <navLabel>
-        <text>卷十四·先進第十一</text>
-      </navLabel>
-      <content src="Text/3767.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_16" playOrder="16">
-      <navLabel>
-        <text>卷十五·顏淵第十二</text>
-      </navLabel>
-      <content src="Text/3768.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_17" playOrder="17">
-      <navLabel>
-        <text>卷十六·子路第十三</text>
-      </navLabel>
-      <content src="Text/3769.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_18" playOrder="18">
-      <navLabel>
-        <text>卷十七·憲問第十四</text>
-      </navLabel>
-      <content src="Text/3770.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_19" playOrder="19">
-      <navLabel>
-        <text>卷十八·衛靈公第十五</text>
-      </navLabel>
-      <content src="Text/3782.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_20" playOrder="20">
-      <navLabel>
-        <text>卷十九·季氏第十六</text>
-      </navLabel>
-      <content src="Text/3783.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_21" playOrder="21">
-      <navLabel>
-        <text>卷二十·陽貨第十七</text>
-      </navLabel>
-      <content src="Text/3876.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_22" playOrder="22">
-      <navLabel>
-        <text>卷二十一·微子第十八</text>
-      </navLabel>
-      <content src="Text/3877.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_23" playOrder="23">
-      <navLabel>
-        <text>卷二十二·子張第十九</text>
-      </navLabel>
-      <content src="Text/3878.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_24" playOrder="24">
-      <navLabel>
-        <text>卷二十三·堯曰第二十</text>
-      </navLabel>
-      <content src="Text/3879.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_25" playOrder="25">
-      <navLabel>
-        <text>卷二十四·何晏論語序</text>
-      </navLabel>
-      <content src="Text/3880.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_26" playOrder="26">
-      <navLabel>
-        <text>附録·鄭玄論語序逸文</text>
-      </navLabel>
-      <content src="Text/3881.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_27" playOrder="27">
-      <navLabel>
-        <text>劉恭冕後敍</text>
-      </navLabel>
-      <content src="Text/3882.html#toc_1"/>
-    </navPoint>
-  </navMap>
-</ncx>
+<html>
+  <body>
+    <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+      <meta content="bba97d0d-0709-45a9-9636-335a0a414beb" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="calibre (5.44.0)" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+      <doctitle>
+        <text>論語正義</text>
+      </doctitle>
+      <navmap>
+        <navpoint id="num_1" playorder="1">
+          <navlabel>
+            <text>凡例</text>
+          </navlabel>
+          <content src="Text/474.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_2" playorder="2">
+          <navlabel>
+            <text>卷一・學而第一</text>
+          </navlabel>
+          <content src="Text/475.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_3" playorder="3">
+          <navlabel>
+            <text>卷二・爲政第二</text>
+          </navlabel>
+          <content src="Text/661.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_4" playorder="4">
+          <navlabel>
+            <text>卷三・八佾第三（上）</text>
+          </navlabel>
+          <content src="Text/662.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_5" playorder="5">
+          <navlabel>
+            <text>卷四・八佾第三（下）</text>
+          </navlabel>
+          <content src="Text/663.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_6" playorder="6">
+          <navlabel>
+            <text>卷五・里仁第四</text>
+          </navlabel>
+          <content src="Text/664.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_7" playorder="7">
+          <navlabel>
+            <text>卷六・公冶長第五</text>
+          </navlabel>
+          <content src="Text/665.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_8" playorder="8">
+          <navlabel>
+            <text>卷七・雍也第六</text>
+          </navlabel>
+          <content src="Text/666.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_9" playorder="9">
+          <navlabel>
+            <text>卷八・述而第七</text>
+          </navlabel>
+          <content src="Text/667.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_10" playorder="10">
+          <navlabel>
+            <text>卷九・泰伯第八</text>
+          </navlabel>
+          <content src="Text/668.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_11" playorder="11">
+          <navlabel>
+            <text>卷十・子罕第九</text>
+          </navlabel>
+          <content src="Text/669.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_12" playorder="12">
+          <navlabel>
+            <text>卷十一・鄉黨第十（上）</text>
+          </navlabel>
+          <content src="Text/670.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_13" playorder="13">
+          <navlabel>
+            <text>卷十二・鄉黨第十（中）</text>
+          </navlabel>
+          <content src="Text/671.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_14" playorder="14">
+          <navlabel>
+            <text>卷十三・鄉黨第十（下）</text>
+          </navlabel>
+          <content src="Text/672.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_15" playorder="15">
+          <navlabel>
+            <text>卷十四・先進第十一</text>
+          </navlabel>
+          <content src="Text/3767.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_16" playorder="16">
+          <navlabel>
+            <text>卷十五・顏淵第十二</text>
+          </navlabel>
+          <content src="Text/3768.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_17" playorder="17">
+          <navlabel>
+            <text>卷十六・子路第十三</text>
+          </navlabel>
+          <content src="Text/3769.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_18" playorder="18">
+          <navlabel>
+            <text>卷十七・憲問第十四</text>
+          </navlabel>
+          <content src="Text/3770.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_19" playorder="19">
+          <navlabel>
+            <text>卷十八・衛靈公第十五</text>
+          </navlabel>
+          <content src="Text/3782.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_20" playorder="20">
+          <navlabel>
+            <text>卷十九・季氏第十六</text>
+          </navlabel>
+          <content src="Text/3783.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_21" playorder="21">
+          <navlabel>
+            <text>卷二十・陽貨第十七</text>
+          </navlabel>
+          <content src="Text/3876.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_22" playorder="22">
+          <navlabel>
+            <text>卷二十一・微子第十八</text>
+          </navlabel>
+          <content src="Text/3877.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_23" playorder="23">
+          <navlabel>
+            <text>卷二十二・子張第十九</text>
+          </navlabel>
+          <content src="Text/3878.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_24" playorder="24">
+          <navlabel>
+            <text>卷二十三・堯曰第二十</text>
+          </navlabel>
+          <content src="Text/3879.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_25" playorder="25">
+          <navlabel>
+            <text>卷二十四・何晏論語序</text>
+          </navlabel>
+          <content src="Text/3880.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_26" playorder="26">
+          <navlabel>
+            <text>附録・鄭玄論語序逸文</text>
+          </navlabel>
+          <content src="Text/3881.html#toc_1"/>
+        </navpoint>
+        <navpoint id="num_27" playorder="27">
+          <navlabel>
+            <text>劉恭冕後敍</text>
+          </navlabel>
+          <content src="Text/3882.html#toc_1"/>
+        </navpoint>
+      </navmap>
+    </ncx>
+  </body>
+</html>
