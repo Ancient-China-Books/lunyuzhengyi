@@ -43,3 +43,17 @@ jobs:
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
           args: copyto lunyuzhengyi-vst.epub gdrive:/Ancient-China-Books/論語正義-豎排.epub
+      - name: Sync to Freemdict
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto lunyuzhengyi.epub freemdict:/Ancient-China-Books/論語正義.epub
+      - name: Sync vst to Freemdict
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto lunyuzhengyi-vst.epub freemdict:/Ancient-China-Books/論語正義-豎排.epub
