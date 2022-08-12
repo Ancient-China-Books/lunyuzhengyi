@@ -1,19 +1,17 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uVs3AE9WlsxAqItmYKWyzZF">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>論語正義</dc:title>
     <dc:creator opf:role="aut" opf:file-as="撰, 刘宝楠 &amp; 点校, 高流水 &amp; 注解, 高流水">刘宝楠 撰</dc:creator>
     <dc:creator opf:role="aut">高流水 点校</dc:creator>
     <dc:creator opf:role="aut">高流水 注解</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
     <dc:publisher>中华书局</dc:publisher>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">dfe0c569-7e1a-0ff3-a343-f47a12963899</dc:identifier>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
-&lt;p&gt;《十三经清人注疏:论语正义(繁体竖排版)(套装上下册)》分为两册。自汉至清，经学在各门学术中占有统治的地位。经学的发展经历了几个不同的阶段，而清代则是很重要的也是最后的一个阶段。清代经学家在经书文字的解释和名物制度等的考证上，超越了以前各代，取得了重要成果，这对我们利用经书所提供的材料研究古代的经济、政治、文化、思想以至科技等，有重要的参考意义。 &lt;/p&gt;
-&lt;p&gt;清代的经学著作，数量极多，体裁各异，研究的方面也不同。其中用疏体写作的书，一般是吸收、总结了前人多方面研究的成果，又是现在文史哲研究者较普遍地需要参考的书，因此我们在十三经清人注疏这个名称下，选择这方面有代表性的著作，陆续整理出版。所选的并非全是疏体，这是因为有的书未曾有人作疏，或虽然有人作疏，但不够完善，因此选用其它注本来代替或补充。礼书通故既非疏体又非注体，但它与体记训篡等配合，可起疏的作用，故也入选。大戴礼记不在十三经之内。但它与礼记(小戴体记)是同类型的书，因此也收进去。对收入的书，均按统一的体例加以点校。 &lt;/p&gt;
-&lt;p&gt;清代的经学著作还有不少有重要参考价值，这有待于今后条件许可时，按新的学科分类，选择整理出版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;清劉寶楠撰。二十四卷。以何晏集解爲主，旨在存魏晉古著錄之舊，而鄭玄遺注悉載疏内。書未完而卒，其子恭冕續成。此書之解釋、攷證甚爲周詳，實勝舊疏。 基於「東里書齋」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:date opf:event="modification">2022-06-10</dc:date>
+    <dc:identifier id="uVs3AE9WlsxAqItmYKWyzZF" opf:scheme="uuid">uVs3AE9WlsxAqItmYKWyzZF</dc:identifier>
     <dc:subject>论语</dc:subject>
     <dc:subject>国学</dc:subject>
     <dc:subject>经学</dc:subject>
@@ -25,7 +23,7 @@
     <dc:subject>经典</dc:subject>
     <dc:subject>經學</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">c4cc90fe-5898-48d5-a049-0bb60a67a7c4</dc:identifier>
+    <dc:identifier opf:scheme="calibre">59a4e73b-ffc9-4f0d-be24-0cf9050e8b9a</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">1577653</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101002232</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
