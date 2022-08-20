@@ -100,3 +100,7 @@ p:before{
 p:hover .gg-link {
   visibility: visible;
 }
+.shu-ming {
+  text-decoration: currentColor wavy underline;
+  text-decoration-thickness: 0.9px;
+}
