@@ -17,7 +17,7 @@
     <dc:subject>哲學</dc:subject>
     <dc:subject>論語</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">688fb4f4-bde1-4a9f-ae83-bb57691549f1</dc:identifier>
+    <dc:identifier opf:scheme="calibre">413f73c7-af06-45c7-9e28-fa3da2cccb16</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="論語正義" name="calibre:title_sort"/>
     <meta name="cover" content="cover"/>
@@ -87,9 +87,9 @@
     <item id="id51" href="Images/i25.png" media-type="image/png"/>
     <item id="id52" href="Images/i26.png" media-type="image/png"/>
     <item id="id53" href="Images/i27.png" media-type="image/png"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
