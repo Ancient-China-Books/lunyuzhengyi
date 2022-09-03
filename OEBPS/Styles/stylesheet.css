@@ -36,6 +36,31 @@ body {
 .section {
   font-weight: bold;
 }
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  padding: 0;
+}
+h1 {
+  font-size: x-large;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  font-size: 120%;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  font-size: large;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
+}
 #text {
   text-align: justify;
   width: 100%;
