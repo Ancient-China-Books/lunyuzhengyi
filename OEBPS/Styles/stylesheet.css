@@ -129,3 +129,10 @@ p:hover .gg-link {
   text-decoration: currentColor wavy underline;
   text-decoration-thickness: 0.9px;
 }
+span.yinwen {
+  font-size: small;
+  color: #795548;
+  padding: 0 3px;
+  border-radius: 3px;
+  -webkit-text-combine: horizontal;
+}
