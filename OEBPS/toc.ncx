@@ -31,13 +31,13 @@
     </navpoint>
     <navpoint id="num_4" playorder="4">
       <navlabel>
-        <text>卷三・八佾第三（上）</text>
+        <text>卷三・八佾第三上</text>
       </navlabel>
       <content src="Text/662.html"/>
     </navpoint>
     <navpoint id="num_5" playorder="5">
       <navlabel>
-        <text>卷四・八佾第三（下）</text>
+        <text>卷四・八佾第三下</text>
       </navlabel>
       <content src="Text/663.html"/>
     </navpoint>
@@ -79,19 +79,19 @@
     </navpoint>
     <navpoint id="num_12" playorder="12">
       <navlabel>
-        <text>卷十一・鄉黨第十（上）</text>
+        <text>卷十一・鄉黨第十上</text>
       </navlabel>
       <content src="Text/670.html"/>
     </navpoint>
     <navpoint id="num_13" playorder="13">
       <navlabel>
-        <text>卷十二・鄉黨第十（中）</text>
+        <text>卷十二・鄉黨第十中</text>
       </navlabel>
       <content src="Text/671.html"/>
     </navpoint>
     <navpoint id="num_14" playorder="14">
       <navlabel>
-        <text>卷十三・鄉黨第十（下）</text>
+        <text>卷十三・鄉黨第十下</text>
       </navlabel>
       <content src="Text/672.html"/>
     </navpoint>
