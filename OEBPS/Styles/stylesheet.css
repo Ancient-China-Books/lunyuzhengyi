@@ -136,3 +136,20 @@ span.yinwen {
   border-radius: 3px;
   -webkit-text-combine: horizontal;
 }
+.jiaozhu {
+  font-size: 12px;
+  color: #B9584E;
+  font-weight: bold;
+}
+.jiaozhusup {
+  font-size: 12px;
+  color: #B9584E;
+  font-weight: bold;
+}
+.jiaozhusup::after {
+  content: "";
+  background-color: #629fd1;
+  color: white;
+  text-indent: 0;
+  margin: 0;
+}
