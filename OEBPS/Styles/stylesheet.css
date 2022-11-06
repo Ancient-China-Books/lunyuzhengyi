@@ -126,8 +126,8 @@ p:hover .gg-link {
   visibility: visible;
 }
 .shu-ming {
-  /*text-decoration: currentColor wavy underline;
-  text-decoration-thickness: 0.9px;*/
+  text-decoration: #777 wavy underline;
+  text-decoration-thickness: 1px;
 }
 span.yinwen {
   font-size: small;
